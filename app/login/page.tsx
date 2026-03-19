@@ -154,4 +154,3 @@ export default function LoginPage() {
     </div>
   );
 }
-// updated login page
